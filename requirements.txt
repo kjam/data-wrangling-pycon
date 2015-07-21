@@ -6,3 +6,4 @@ python-Levenshtein
 journalism
 latimes-calculate
 bokeh
+pygal
