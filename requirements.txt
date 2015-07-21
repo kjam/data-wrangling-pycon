@@ -1,2 +1,5 @@
 xlrd
 requests
+fuzzywuzzy
+textblob
+python-Levenshtein
