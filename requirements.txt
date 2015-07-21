@@ -3,3 +3,5 @@ requests
 fuzzywuzzy
 textblob
 python-Levenshtein
+journalism
+latimes-calculate
