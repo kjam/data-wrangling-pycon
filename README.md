@@ -8,6 +8,12 @@ To Install requirements
     $ pip install requirements.txt
 
 
+To Access iPython Notebook
+----------------------
+
+[notebook](https://ipynb.kjamistan.com)
+pw: pyconeu2015
+
 
 Questions?
 ----------
