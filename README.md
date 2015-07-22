@@ -11,7 +11,7 @@ To Install requirements
 To Access iPython Notebook
 ----------------------
 
-[notebook](https://ipynb.kjamistan.com)
+[notebook](https://ipynb.kjamistan.com:8888)
 pw: pyconeu2015
 
 
