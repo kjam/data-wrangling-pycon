@@ -1,5 +1,6 @@
 import requests
 import re
+import json
 from multiprocessing import Process, Manager
 
 MATCHING = (
@@ -30,6 +31,10 @@ def get_top_stories():
     for p in processes:
         p.join()
     return stories
+
+
+def get_json_stories():
+    return json.load(open('../data/topstories.json', 'rb'))
 
 
 def count_languages():

@@ -3,6 +3,7 @@ from multiprocessing import Process, Manager
 from fuzzywuzzy import fuzz
 from textblob import TextBlob
 import re
+import json
 
 
 def get_story(story_id, stories):
@@ -26,6 +27,14 @@ def get_top_stories():
     return stories
 
 
+def get_json_stories():
+    return json.load(open('../data/topstories.json', 'rb'))
+
+
+def get_json_comments():
+    return json.load(open('../data/comments.json', 'rb'))
+
+
 def get_all_comments(sid):
     manager = Manager()
     comments = manager.list()
@@ -38,7 +47,7 @@ def get_all_comments(sid):
         p.start()
     for p in processes:
         p.join()
-    return [c for c in comments if not c.get('deleted')]
+    return [c for c in comments if c and not c.get('deleted')]
 
 
 def remove_html(text):
