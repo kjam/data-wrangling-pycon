@@ -2,4 +2,5 @@
 *.pyc
 openbooks/*
 *.db
-*/.ipynb_checkpoints/*
+.*
+!/.gitignore
