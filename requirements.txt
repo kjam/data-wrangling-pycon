@@ -7,3 +7,6 @@ journalism
 latimes-calculate
 bokeh
 pygal
+dataset
+matplotlib
+
