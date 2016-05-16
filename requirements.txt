@@ -27,6 +27,7 @@ notebook==4.2.0
 numpy==1.11.0
 oauthlib==1.1.1
 pandas==0.18.1
+pandas-datareader==0.2.1
 pathlib2==2.1.0
 pdfminer==20110515
 pdftables==0.0.4
@@ -40,6 +41,7 @@ PyYAML==3.11
 pyzmq==15.2.0
 qtconsole==4.2.1
 requests==2.10.0
+requests-file==1.4
 requests-oauthlib==0.6.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
