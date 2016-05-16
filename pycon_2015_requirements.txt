@@ -1,0 +1,9 @@
+xlrd
+requests
+fuzzywuzzy
+textblob
+python-Levenshtein
+journalism
+latimes-calculate
+bokeh
+pygal
