@@ -5,7 +5,7 @@ Welcome to Data Wrangling! Here you'll find some useful scripts and data to get 
 
 To Install requirements
 -----------------------
-    $ pip install requirements.txt
+    $ pip install -r requirements.txt
 
 
 To Access iPython Notebook
