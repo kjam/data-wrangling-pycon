@@ -14,8 +14,11 @@ To Install requirements if you are using Python 3.4+
 To Access iPython Notebook
 ----------------------
 
-[notebook](https://ipynb.kjamistan.com:8888)
-pw: pyconeu2015
+[PY2 Notebook](https://pydata.chickenkiller.com:8888/login?)
+pw: pydata2016
+
+[PY3 Notebook](https://pydata.chickenkiller.com:8889/login?)
+pw: pydata2016
 
 
 Questions?
