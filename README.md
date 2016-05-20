@@ -5,11 +5,11 @@ Welcome to Data Wrangling! Here you'll find some useful scripts and data to get 
 
 To Install requirements if you are using Python 2.7+
 -----------------------
-    $ pip install requirements.txt
+    $ pip install -r requirements.txt
 
 To Install requirements if you are using Python 3.4+
 -----------------------
-    $ pip install py3_requirements.txt
+    $ pip install -r py3_requirements.txt
 
 To Access iPython Notebook
 ----------------------
