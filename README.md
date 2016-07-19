@@ -11,6 +11,12 @@ To Install requirements if you are using Python 3.4+
 -----------------------
     $ pip install -r py3_requirements.txt
 
+To Install requirements using Conda Environments
+--------------------------------------------------
+    $ conda create --name conda_dw --file conda_requirements.txt
+    $ source activate conda_dw
+    $ conda install openpyxl
+
 To Access iPython Notebook
 ----------------------
 
@@ -25,5 +31,5 @@ Questions?
 ----------
 
 kjam on twitter / freenode
-katharine at pyladies dot org
+katharine at kjamistan dot com
 
