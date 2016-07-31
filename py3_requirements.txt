@@ -38,6 +38,8 @@ openpyxl==2.3.5
 pandas==0.18.1
 pandas-datareader==0.2.1
 pathlib2==2.1.0
+pdfminer.six==20160614
+pdftables.six==0.0.5
 pexpect==4.0.1
 pickleshare==0.7.2
 ptyprocess==0.5.1
