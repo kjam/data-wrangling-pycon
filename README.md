@@ -42,7 +42,7 @@ katharine at kjamistan dot com
 Contributions
 --------------
 
-Many thanks to Steven van der Berghe for his help debugging conda environments and providing the ´data_wrangling_3.yml´ file.
+Many thanks to [Steven Van den Berghe](https://be.linkedin.com/in/svdberghe) for his help debugging conda environments and providing the ´data_wrangling_3.yml´ file.
 
 Massive Kudos to [Viacheslav Naydenov](https://github.com/vnaydionov/) for porting pdftables to Py3!
 
