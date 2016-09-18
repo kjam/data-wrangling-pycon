@@ -25,11 +25,7 @@ To Install requirements using Conda Environments and Python3
 To Access iPython Notebook
 ----------------------
 
-[PY2 Notebook](https://pydata.chickenkiller.com:8888/login?)
-pw: pydata2016
-
-[PY3 Notebook](https://pydata.chickenkiller.com:8889/login?)
-pw: pydata2016
+[PY3 Notebook](https://class.kjamistan.com)
 
 
 Questions?
