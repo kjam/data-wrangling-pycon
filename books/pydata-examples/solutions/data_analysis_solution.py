@@ -14,7 +14,7 @@ df.sort_values('hour').plot(x='hour', y='hourly_desc_max')
 
 df['num_kids'] = df['kids'].map(get_list_len)
 
-df['hourly_kids_median'] = df.groupby('hour')['descendants'].transform(median)
+df['hourly_kids_median'] = df.groupby('hour')['num_kids'].transform(median)
 
 df.sort_values('hour').plot(x='hour', y='hourly_kids_median')
 
