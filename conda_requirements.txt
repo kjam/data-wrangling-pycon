@@ -13,7 +13,7 @@ ipython==4.2.0
 ipython_genutils==0.1.0
 ipywidgets
 jdcal==1.2
-Jinja2==2.8
+Jinja2==2.11.3
 jsonschema==2.5.1
 jupyter==1.0.0
 jupyter_client==4.2.2
