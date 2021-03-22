@@ -33,7 +33,7 @@ jupyter-console==4.1.1
 jupyter-core==4.1.0
 jupyterhub==0.6.1
 line-profiler==1.0
-lxml==3.6.0
+lxml==4.6.3
 MarkupSafe==0.23
 matplotlib==1.5.1
 mccabe==0.5.0
