@@ -70,7 +70,7 @@ pyOpenSSL==16.0.0
 pyparsing==2.1.4
 python-dateutil==2.5.3
 pytz==2016.4
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==15.2.0
 qtconsole==4.2.1
 requests==2.10.0
