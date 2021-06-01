@@ -84,6 +84,6 @@ terminado==0.6
 tornado==4.3
 traitlets==4.2.1
 tweepy==3.5.0
-urllib3==1.15.1
+urllib3==1.26.5
 widgetsnbextension==1.2.2
 xlrd==0.9.4
