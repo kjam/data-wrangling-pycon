@@ -50,7 +50,7 @@ openpyxl==2.3.5
 pamela==0.2.1
 pandas==0.18.1
 pandas-datareader==0.2.1
-paramiko==2.0.1
+paramiko==2.10.1
 pathlib2==2.1.0
 pathos==0.2.0
 pdfminer.six==20160614
