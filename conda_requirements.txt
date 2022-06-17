@@ -26,7 +26,7 @@ nbconvert==4.2.0
 nbformat==4.0.1
 ndg_httpsclient
 notebook==4.2.0
-numpy==1.11.0
+numpy==1.21.0
 pandas==0.18.1
 pandas-datareader==0.2.1
 pathlib2==2.1.0
