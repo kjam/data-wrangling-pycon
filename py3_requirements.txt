@@ -32,7 +32,7 @@ nbconvert==4.2.0
 nbformat==4.0.1
 ndg-httpsclient==0.4.0
 notebook==4.2.0
-numpy==1.11.0
+numpy==1.22.0
 oauthlib==1.1.1
 openpyxl==2.3.5
 pandas==0.18.1
