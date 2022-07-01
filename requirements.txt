@@ -36,7 +36,7 @@ ndg-httpsclient==0.4.0
 notebook==4.2.0
 numpy==1.11.0
 oauthlib==1.1.1
-openpyxl==2.3.5
+openpyxl==2.4.2
 pandas==0.18.1
 pandas-datareader==0.2.1
 pathlib2==2.1.0
