@@ -31,7 +31,7 @@ jupyter==1.0.0
 jupyter-client==4.2.2
 jupyter-console==4.1.1
 jupyter-core==4.1.0
-jupyterhub==0.6.1
+jupyterhub==1.5.0
 line-profiler==1.0
 lxml==3.6.0
 MarkupSafe==0.23
